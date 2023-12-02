@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "346805857052",
+    "firebase_url": "https://pds-rms-version-default-rtdb.firebaseio.com",
+    "project_id": "pds-rms-version",
+    "storage_bucket": "pds-rms-version.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346805857052:android:3334c7ba583557580ce8d9",
+        "android_client_info": {
+          "package_name": "com.example.rms_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7hLzfwzO9IQ8c3hja1gbHihGSMSt1tCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
